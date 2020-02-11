@@ -13,7 +13,7 @@
 		</repository>
 		<repository>
 			<id>ImageJ</id>
-			<url>http://maven.imagej.net/content/repositories/public/</url>
+			<url>https://maven.imagej.net/content/repositories/public/</url>
 		</repository>
 	</repositories>
 	<dependencies>
